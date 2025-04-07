@@ -23,7 +23,7 @@ A beautiful, drag-and-drop PDF merging app built with **React** and **Electron**
 
 ## 🖥️ How to Use
 
-1. **Download** the `PDFMergerApp.exe` from the release.
+1. **Download** the `PDFMerge.exe` from the release.
 2. **Double-click** the file to run it. No install needed.
 3. Click **"Click to Add"** and select your PDF files.
 4. **Drag and reorder** if needed.
@@ -43,6 +43,12 @@ Want to tweak the code or build your own version?
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/pdf-merger.git
+git clone [https://github.com/TunahanBalci/pdf-merger.git]
 cd pdf-merger
 npm install
+```
+
+
+### ⚠️ NOTICE!
+
+As the project is completed, it hasn't been compiled to a single .EXE file yet. However, I intend to add the compiled version to the releases section very soon!
